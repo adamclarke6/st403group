@@ -1,7 +1,6 @@
 ################################## load data function
 
 library(readr)
-#library(tidyverse)
 library(sf)
 library(rnaturalearth)
 library(rnaturalearthdata)
